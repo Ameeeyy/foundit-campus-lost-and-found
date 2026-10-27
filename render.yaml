@@ -3,7 +3,8 @@ services:
     name: foundit
     runtime: node
     plan: free
-    buildCommand: npm ci && npm run build
+    rootDir: .
+    buildCommand: npm ci --include=dev && npm run build --workspace frontend
     startCommand: npm start --workspace backend
     envVars:
       - key: NODE_ENV
