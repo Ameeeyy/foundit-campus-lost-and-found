@@ -1,3 +1,10 @@
+## 🎥 Project Demo
+
+Watch the complete demonstration of **FoundIt — Campus Lost & Found Platform**.
+
+[▶️ Watch FoundIt Demo Video](https://drive.google.com/file/d/1cTqyECYpP_UlZwQ4Cp5PXNK3kx8rDC-j/view?usp=sharing)
+
+
 # FoundIt
 
 FoundIt is a campus lost-and-found application. It helps students and campus staff report lost or found belongings, identify possible matches, and return items through an owner-reviewed claim process.
